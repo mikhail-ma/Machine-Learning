@@ -6,7 +6,7 @@ The quality of the written service is evaluated in a checker based on hidden dat
 
 Posts can remain relevant for several months, so it makes sense to dive into the analysis of the texts themselves: sentiment (negative, neutral and positive), word and paragraph count, and hour/month/week/weekday of publication
 
-The main idea is to use [Cosine similarity](https://www.sciencedirect.com/topics/computer-science/cosine-similarity) is a measure of similarity between two sequences of numbers. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. This method can be used as a measurement of how similar are posts in a given social network.
+The main idea is to use [Cosine similarity](https://www.sciencedirect.com/topics/computer-science/cosine-similarity) - a measure of similarity between two sequences of numbers. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. This method can be used as a measurement of how similar are posts in a given social network.
 
 <p align="center">
   <img width="850" height="495" src="img1.jpg">
