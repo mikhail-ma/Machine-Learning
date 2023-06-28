@@ -1,3 +1,3 @@
 ### ML Projects
 
-- Recommendation System for Social Network
+- Recommendation System for Social Network (student project )
